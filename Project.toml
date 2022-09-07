@@ -1,0 +1,4 @@
+[deps]
+GPCCData = "6ae24528-df3b-47a6-8d0b-c8e9925c8a04"
+Interpolations = "a98d9a8b-a2ab-59e6-89dd-64a1c18fca59"
+PyPlot = "d330b81b-6aea-500a-939a-2ce795aea3ee"

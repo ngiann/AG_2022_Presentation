@@ -1,10 +1,9 @@
 using Pkg
 Pkg.activate(".")
 
-using GLMakie, CairoMakie, GPCCData, Printf
+using Interpolations, PyPlot, GPCCData, Printf
 
 let 
-
 
     tobs, yobs, sobs, = GPCCData.readdataset(source="3C120")
     
